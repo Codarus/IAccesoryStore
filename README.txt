@@ -1,10 +1,8 @@
 Christopher Hernandez
-phone: 708-821-6464
 teammates: none
 
 June 30th, 2016
 CS-445 Project
-Omar Aldawud
 
 *written in notepad++; for best viewing use Notepad++ or Microsoft Word
 
